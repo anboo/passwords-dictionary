@@ -1,0 +1,17 @@
+{
+  "name": "anboo/passwords-dictionary",
+  "description": "description_text",
+  "minimum-stability": "stable",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "Danil Andreyev",
+      "email": "rusdteam@gmail.com"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "Anboo\\":"src/"
+    }
+  }
+}
